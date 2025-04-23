@@ -1,0 +1,3 @@
+Tag Manager = Gerenciador de Tags
+google tag assistant = Serve para confirmar se a instalação
+da tag foi feita corretamente
