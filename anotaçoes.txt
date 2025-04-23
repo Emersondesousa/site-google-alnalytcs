@@ -1,3 +1,20 @@
 Tag Manager = Gerenciador de Tags
+
 google tag assistant = Serve para confirmar se a instalação
 da tag foi feita corretamente
+
+Para fazer a instalação do Google tag, pegar o id, colar o Head e Body
+do Html, tags ficam no gerenciador de tags.
+
+Ao cadastrar o site aparece o id da tag em "Google Analytics"
+
+Sempre criar um container para cada site, porque dá atritos entre
+os sites.
+
+Plugin "WPCode": fazer instalação da tag.
+
+passo 1 : Acessar na lateral "Tags" criar tag com o mesmo nome do id,
+publicar e salvar versão (não adicionar descrição).
+
+Google ads: vincular a conta do google analytcs em
+ferramentas/ central de dados
